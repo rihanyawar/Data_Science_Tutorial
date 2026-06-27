@@ -153,12 +153,6 @@ Contributions are welcome! If you'd like to add a tutorial, fix an issue, or imp
 
 ---
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
 ## Author
 
 **Rihan Yawar**
