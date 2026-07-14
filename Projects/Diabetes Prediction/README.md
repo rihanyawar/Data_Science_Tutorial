@@ -1,6 +1,6 @@
-# Heart Disease Prediction
+# Diabetes Prediction
 
-This project is a machine learning-based web application that predicts the likelihood of heart disease using patient clinical data. The application is developed with Streamlit and provides real-time predictions through an interactive user interface.
+This project is a machine learning-based web application that predicts whether a patient is likely to have diabetes based on clinical health data. The application is developed using Streamlit and provides real-time predictions through a simple user interface.
 
 ## Technologies Used
 
@@ -8,19 +8,20 @@ This project is a machine learning-based web application that predicts the likel
 - Streamlit
 - Scikit-learn
 - NumPy
+- Pandas
 
 ## Dataset
 
-- UCI Heart Disease Dataset (Cleveland)
+- Diabetes Prediction Dataset
 
 ## Project Structure
 
 ```text
-Heart-Disease-Prediction/
+Diabetes-Prediction/
 ├── app.py
-├── HD_Prediction.ipynb
-├── model.pkl
-├── data.csv
+├── diabetes_prediction.ipynb
+├── diabetes_pred.pkl
+├── diabetes.csv
 ├── requirements.txt
 └── README.md
 ```
